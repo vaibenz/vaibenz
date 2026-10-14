@@ -16,7 +16,7 @@
 
 - 🎓 B.Eng (Hons) Computer Engineering with a Minor in Business at **Nanyang Technological University**, class of 2029
 - 💼 Previously **Full Stack Developer Intern at Tata Consultancy Services**, building Java/Spring Boot and React for the Singapore Airlines Offshore Delivery Centre in Chennai. First TCS Singapore intern to complete an overseas placement under the Global Ready Talent Programme
-- 🏅 NTU-Google Career Certificate Scholar · AWS AI & ML Scholar
+- 🏅 NTU-Google Career Certificate Scholar 
 - 🤝 Mentee in the SC x NTU LevelUP! programme, mentored by Trust Bank Singapore's Executive Director of Technology Operations
 - 🌏 Most excited by distributed systems, applied ML, and fintech for underserved businesses in Southeast Asia
 
